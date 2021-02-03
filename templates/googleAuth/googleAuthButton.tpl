@@ -1,0 +1,1 @@
+<a href="{$AuthUrl}">Google login </a>

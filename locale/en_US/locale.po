@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "plugins.generic.socialsAuth.displayName"
+msgstr "Login by Social account"
+
+msgid "plugins.generic.socialsAuth.description"
+msgstr "Plugin that allows OJS users to log in using Social account."
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.description"
+msgstr "Credentials info"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleAppClientID"
+msgstr "Client ID"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleAppClientSecret"
+msgstr "Client Secret"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.redirectUri"
+msgstr "Redirect Uri"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleCredentialsConfigs"
+msgstr "Google Credentials info"

@@ -1,0 +1,26 @@
+{
+  "name": "taphuocanh/socials-auth",
+  "description": "Social Auth for OJS",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "taphuocanh",
+      "email": "taphuocanh@huaf.edu.vn"
+    }
+  ],
+  "require": {
+    "google/apiclient": "^2.7"
+  },
+  "scripts": {
+    "post-update-cmd": "Google\\Task\\Composer::cleanup",
+    "reinstall": "composer install",
+    "reupdate": "composer update"
+  },
+  "extra": {
+    "google/apiclient-services": [
+      "People",
+      "Oauth2"
+    ]
+  }
+}

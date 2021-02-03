@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/socialsAuth/version.xml
+  *
+  * Copyright (c) 2021-2031 Ta Phuoc Anh, University of Agriculture and Forestry, Hue University.
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>socialsAuth</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2021-01-27</date>
+	<lazy-load>1</lazy-load>
+	<sitewide>1</sitewide>
+	<class>SocialsAuth</class>
+</version>

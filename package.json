@@ -1,0 +1,16 @@
+{
+  "name": "socials-auth",
+  "version": "1.0.0",
+  "require": {
+    "google/apiclient": "^2.7"
+  },
+  "scripts": {
+    "post-update-cmd": "Google\\Task\\Composer::cleanup"
+  },
+  "extra": {
+    "google/apiclient-services": [
+    ]
+  },
+  "dependencies": {
+  }
+}

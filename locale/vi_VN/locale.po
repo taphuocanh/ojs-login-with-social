@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+
+msgid "plugins.generic.socialsAuth.displayName"
+msgstr "Đăng nhập bằng mạng xã hội"
+
+msgid "plugins.generic.socialsAuth.description"
+msgstr "Plugin cho phép người dùng OJS đăng nhập thông qua các mạng xã hội."
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.description"
+msgstr "Thông tin xác thực"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleAppClientID"
+msgstr "Client ID"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleAppClientSecret"
+msgstr "Client Secret"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.redirectUri"
+msgstr "Uri chuyển hướng"
+
+msgid "plugins.generic.socialsAuth.manager.settings.googleAuth.googleCredentialsConfigs"
+msgstr "Cấu hình Xác thực Google"
